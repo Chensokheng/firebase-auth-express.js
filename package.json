@@ -1,0 +1,21 @@
+{
+	"name": "express-auth",
+	"version": "1.0.0",
+	"description": "- [x] authenticate on front end - [ ] build simple back-end - [ ] make request from front to backend with JWT",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon src/server.js",
+		"start": "node src/server.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
+		"firebase-admin": "^9.7.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.7"
+	}
+}

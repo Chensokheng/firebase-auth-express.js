@@ -1,0 +1,3 @@
+- [x] authenticate on front end
+- [x] build simple back-end
+- [x] make request from front to backend with JWT
